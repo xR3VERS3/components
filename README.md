@@ -1,6 +1,6 @@
 # components
-
-Shared Vue components used on overlays and webpages
+Rocket League overlays for OBS/Vmix
+Game state pulled from WS SOS-Relay (https://gitlab.com/r3vers3/sos-ws-relay)
 
 ## Usage
 
