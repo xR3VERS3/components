@@ -1,7 +1,7 @@
 # components
 Rocket League overlays for OBS/Vmix
 Game state pulled from WS SOS-Relay (https://gitlab.com/r3vers3/sos-ws-relay)
-
+forked from zipsesportsnetwork/components
 ## Usage
 
 TODO: write this
